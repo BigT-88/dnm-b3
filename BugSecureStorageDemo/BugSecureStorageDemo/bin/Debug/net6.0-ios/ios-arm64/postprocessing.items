@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="BugSecureStorageDemo.app/BugSecureStorageDemo">
+      <BCSymbolMapName>BugSecureStorageDemo.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>false</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>BugSecureStorageDemo.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/tgorman/Documents/GitHub/dnm-b3/BugSecureStorageDemo/BugSecureStorageDemo/obj/Debug/net6.0-ios/ios-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>BugSecureStorageDemo.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/tgorman/Documents/GitHub/dnm-b3/BugSecureStorageDemo/BugSecureStorageDemo</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

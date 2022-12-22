@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F4A6EFA5-2EC3-47EC-95C5-6EAB8840A185}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BugSecureStorageDemo/MainPage.xaml.cs">
+    <Files>
+      <File FileName="BugSecureStorageDemo/IDemoSecureStorage.cs" />
+      <File FileName="BugSecureStorageDemo/SecureStorageService.cs" Line="53" Column="1" />
+      <File FileName="BugSecureStorageDemo/MainPage.xaml" Line="11" Column="1" />
+      <File FileName="BugSecureStorageDemo/MainPage.xaml.cs" Line="45" Column="1" />
+      <File FileName="BugSecureStorageDemo/BugSecureStorageDemo.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BugSecureStorageDemo" expanded="True">
+            <Node name="BugSecureStorageDemo" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.ItemProperties.BugSecureStorageDemo PreferredExecutionTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tgorman/Projects/BugSecureStorageDemo/BugSecureStorageDemo/MainPage.xaml.cs" relfile="BugSecureStorageDemo/MainPage.xaml.cs" line="45" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_CodesignBundle Include="BugSecureStorageDemo.app">
+      <CodesignSigningKey>F7202C40F072268943FC3818B7BA2C30DF7392B5</CodesignSigningKey>
+      <CodesignEntitlements>/Users/tgorman/Documents/GitHub/dnm-b3/BugSecureStorageDemo/BugSecureStorageDemo/obj/Debug/net6.0-ios/ios-arm64/Entitlements.xcent</CodesignEntitlements>
+      <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
+      <CodesignAllocate>/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate</CodesignAllocate>
+      <RequireCodeSigning>true</RequireCodeSigning>
+      <CodesignExtraArgs></CodesignExtraArgs>
+      <CodesignResourceRules></CodesignResourceRules>
+      <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
+      <CodesignKeychain></CodesignKeychain>
+      <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
+      <SourceProjectPath>/Users/tgorman/Documents/GitHub/dnm-b3/BugSecureStorageDemo/BugSecureStorageDemo</SourceProjectPath>
+    </_CodesignBundle>
+  </ItemGroup>
+</Project>
